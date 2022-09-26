@@ -12,6 +12,7 @@ Con el propósito de mostrar la funcionalidad, se incluyen opciones de conversi�
 Conversión de temperaturas
 La conversión de temperaturas se realiza mediante un algoritmo que acepta conversiones entre las esclas Kelvin, Fahrenheit y Celsius.
 
-<video src="https://raw.githubusercontent.com/juan351/conversor-monedas-temperaturas/main/demo.mp4" data-canonical-src="https://raw.githubusercontent.com/juan351/conversor-monedas-temperaturas/main/demo.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
-</video>
+
+
+<video src="https://raw.githubusercontent.com/juan351/conversor-monedas-temperaturas/main/demo.mp4"></video>
 
