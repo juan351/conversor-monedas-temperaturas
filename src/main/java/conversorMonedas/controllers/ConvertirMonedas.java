@@ -19,7 +19,7 @@ public class ConvertirMonedas {
 
         Request request = new Request.Builder()
                 .url("https://api.apilayer.com/exchangerates_data/convert?to="+moneda2.getTipoMoneda()+"&from="+moneda1.getTipoMoneda()+"&amount="+moneda1.getValor())
-                .addHeader("apikey", "lF9T2fUW86u4h27QevibJVxWpML2awdO")
+                .addHeader("apikey", "")
                 .method("GET", null)
             .build();
         Response response = client.newCall(request).execute();
